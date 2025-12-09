@@ -1,1 +1,3 @@
 a collection of guides, based upon other creator's long-form YouTube videos, written in londy's style for the purpose of simplicity. any references used to write a given guide will always be cited within that guide, providing the original creator's alias and a link to the YouTube video.
+
+all derivative works are licensed under a CC BY-SA 4.0 license
